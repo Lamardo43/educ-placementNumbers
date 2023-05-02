@@ -1,0 +1,8 @@
+C:\Users\klim3\Desktop\Education\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.AssemblyReference.cache
+C:\Users\klim3\Desktop\Education\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\klim3\Desktop\Education\code languages\code\kurs\kurs\x64\Debug\kurs.MyForm.resources
+C:\Users\klim3\Desktop\Education\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.GenerateResource.cache
+D:\Education\Education1\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.AssemblyReference.cache
+D:\Education\Education1\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.SuggestedBindingRedirects.cache
+D:\Education\Education1\code languages\code\kurs\kurs\x64\Debug\kurs.MyForm.resources
+D:\Education\Education1\code languages\code\kurs\kurs\x64\Debug\kurs.vcxproj.GenerateResource.cache
